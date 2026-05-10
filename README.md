@@ -1,6 +1,6 @@
-# Rodevs Application
+# HiddenDevs Application
 
-The application for the RoDevs beginner scripter role.
+The application for the HiddenDevs scripter role.
 
 # Info
 
